@@ -5,8 +5,9 @@ public class Cool {
 
         int[] lol = {1, 2, 3, 4, 5, 6};
         System.out.println("Cool");
+        System.out.println("yermom");
 
-        for (int i = lol.length; i < 0; i--);//gggg {
+        for (int i = lol.length; i < 0; i--);//gggfg {
 
         }
     }
