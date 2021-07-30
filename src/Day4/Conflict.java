@@ -6,5 +6,6 @@ public class Conflict {
     // i can type anything I want here
     // and it will be included
     // in the final merge result!
+    //more content
     //Different commit up in here
 }
